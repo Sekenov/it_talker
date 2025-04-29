@@ -156,6 +156,7 @@ function Hero() {
               />
               <div className={styles.companyCard}>
                 <p className="text-base lg:text-lg mb-2 font-semibold">
+                  Co-founder
                   Старший и ведущий SA:
                 </p>
                 {companies.map((company) => (
